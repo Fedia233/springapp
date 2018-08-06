@@ -1,54 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0066883e-b1a2-4642-a4d2-1b694b6d0be8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2b298e90-011a-4234-a1c2-5e36c2be5997.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2b298e90-011a-4234-a1c2-5e36c2be5997/storage_v2/_src_/database/message.BwDrOA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2b298e90-011a-4234-a1c2-5e36c2be5997/storage_v2/_src_/database/message.BwDrOA/schema/public.abK9xQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springFirst.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fSpring/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fSpring/config/MvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fSpring/config/WebSecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fSpring/controller/MainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fSpring/controller/RegistrationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fSpring/domain/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fSpring/domain/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fSpring/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fSpring/repos/MessageRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fSpring/repos/UserRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/fSpring/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/greeting.mustache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/login.mustache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/main.mustache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/registration.mustache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/fSpring/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/fSpring/config/MvcConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/fSpring/config/WebSecurityConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/fSpring/controller/MainController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/fSpring/controller/RegistrationController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/fSpring/domain/Message.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/fSpring/domain/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/fSpring/domain/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/fSpring/repos/MessageRepo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/fSpring/repos/UserRepo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/fSpring/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/greeting.mustache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/login.mustache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/main.mustache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/registration.mustache" afterDir="false" />
-    </list>
+    <list default="true" id="0066883e-b1a2-4642-a4d2-1b694b6d0be8" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -458,16 +411,15 @@
       <workItem from="1533151638608" duration="1817000" />
       <workItem from="1533372823968" duration="2450000" />
       <workItem from="1533499767478" duration="1172000" />
-      <workItem from="1533550830237" duration="560000" />
+      <workItem from="1533550830237" duration="810000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38687000" />
+    <option name="totallyTimeSpent" value="38937000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50075644" side_tool="true" weight="0.32838285" />
@@ -488,8 +440,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.3910891" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32838285" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23524962" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32838285" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23524962" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />

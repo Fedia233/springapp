@@ -21,5 +21,5 @@ List of users
         </tr>
     </#list>
     </tbody>
-    </table>
+</table>
 </@c.page>
